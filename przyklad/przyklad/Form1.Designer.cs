@@ -1,4 +1,4 @@
-﻿namespace przyklad
+namespace przyklad
 {
     partial class Form1
     {
